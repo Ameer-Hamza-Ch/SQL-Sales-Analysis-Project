@@ -1,34 +1,6 @@
 Create database Sales_db_1;
 use Sales_db_1;
 
-create table SalesData(
-ORDERNUMBER int primary key,
-QUANTITY smallint,
-PRICE float,
-ORDERLINE int,
-SALES float,
-ORDERDATE date,
-STATUS_ varchar(30),
-QTR_ID smallint,
-MONTH_ID int,
-YEAR_ID int,
-PRODUCTLINE varchar(50),
-MSRP int,
-PRODUCTCODE varchar(30),
-CUSTOMERNAME varchar(50),
-PHONE varchar(20),
-ADDRESSLINE1 varchar(30),
-ADDRESSLINE2 varchar(40),
-CITY varchar(50),
-STATE varchar(30),
-POSTALCODE VARCHAR(30),
-COUNTRY varchar(40),
-TERRITORY char(30),
-CONTACTLASTNAME char(30),
-CONTACTFIRSTNAME char(30),
-DEALSIZE char(10)
-);
-
 select* from Sales_data_sample;
 
 select count(ORDERNUMBER)
