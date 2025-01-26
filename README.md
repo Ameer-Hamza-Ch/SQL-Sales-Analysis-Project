@@ -1,7 +1,3 @@
-To upload the above HTML code to your `README` file on GitHub, you need to convert the HTML content into Markdown format, as GitHub's `README` files use Markdown for formatting. Below is the converted Markdown version of your HTML content:
-
----
-
 # Sales Analysis SQL Project
 
 ## Project Overview
@@ -207,15 +203,3 @@ This project serves as a comprehensive introduction to SQL for data analysts, co
 **Author:** Ameer Hamza Ch  
 
 This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles. If you have any questions, feedback, or would like to collaborate, feel free to get in touch!
-
----
-
-### Steps to Upload to GitHub
-
-1. Copy the above Markdown content.
-2. Go to your GitHub repository.
-3. Create or edit the `README.md` file.
-4. Paste the Markdown content into the file.
-5. Commit the changes.
-
-Your `README.md` file will now display the formatted content on GitHub!
