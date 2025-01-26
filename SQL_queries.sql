@@ -1,3 +1,5 @@
+use Sales_db_1;
+
 select* from Sales_data_sample;
 
 select count(ORDERNUMBER)
